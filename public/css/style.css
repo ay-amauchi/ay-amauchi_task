@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.button-group {
+    display: flex;
+    padding: 0;
+}
